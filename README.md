@@ -1,4 +1,4 @@
-# JDBC-Assignment-
+# JDBC-Assignment
 
 ## NoSQL Overview
 
